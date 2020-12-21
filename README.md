@@ -8,9 +8,9 @@ This tool is educational only. Only use this on consenting parties. Do not use t
 <br>
 3. python spammer.py
 </p>
-<h1> how to use for linux <h1>
+<h1> how to use for linux </h1>
   
-<p>$ git clone
+<p>$ git clone https://github.com/basilisk-security/email-spammer.git
 <br>
 $ cd email-spammer
 <br>
